@@ -45,8 +45,6 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 **jgfjf**
 lkjhkh
 
-khjgjyg
-
-kjhgjf
+khjgjy
 
 
