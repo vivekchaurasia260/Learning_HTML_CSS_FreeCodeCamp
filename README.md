@@ -49,6 +49,4 @@ khjgjyg
 
 kjhgjf
 
-*kjsfgh*
-kjh
 
