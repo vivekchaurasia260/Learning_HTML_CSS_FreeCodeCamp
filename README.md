@@ -44,6 +44,4 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 
 
 zgsad
-fsgwfg
-f
-sfgaf'saf
+fsg
